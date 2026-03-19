@@ -6,7 +6,7 @@ Atualmente cursando pós-graduação em Engenharia de Inteligência Artificial e
 
 ---
 
-## 🛠️ Stack técnica
+## 🛠️ Principais Competências técnicas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -47,4 +47,4 @@ Atualmente cursando pós-graduação em Engenharia de Inteligência Artificial e
 
 ---
 
-*Aberto a oportunidades em Ciência de Dados, Análise de Dados e Machine Learning — BH, híbrido ou remoto.*
+*Aberto a oportunidades como Cientista de Dados, Analista de Dados e Machine Learning Engineer* 
